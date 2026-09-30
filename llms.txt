@@ -6,8 +6,8 @@
 - Name: Mr. Hoff's Auto Detailing (also written "Mr. Hoffs Auto Detailing")
 - Address: 4843 Waller Rd, Richmond, VA 23230
 - Phone: (804) 355-4633
-- Website: https://mrhoffsdetailing.com/
-- Quote request form: https://mrhoffsdetailing.com/contact.html
+- Website: https://mr-hoffs-auto-detailing.netlify.app/
+- Quote request form: https://mr-hoffs-auto-detailing.netlify.app/contact.html
 - Owner: Dean Hoffman
 
 ## Hours
@@ -28,7 +28,7 @@
 - No published price list. Every job is quoted individually by phone. The shop is known for keeping prices low.
 
 ## How to book
-- Call (804) 355-4633 during weekday shop hours, or send a quote request at https://mrhoffsdetailing.com/contact.html.
+- Call (804) 355-4633 during weekday shop hours, or send a quote request at https://mr-hoffs-auto-detailing.netlify.app/contact.html.
 
 ## Reputation
 - Voted #1 Best Car Detailer in a local magazine reader poll. The feature says owner Dean Hoffman "has kept prices low and relied on word-of-mouth referrals to his mom-and-pop shop specializing in ceramic coatings" and calls him "a whizz at full restoration projects."
@@ -49,7 +49,7 @@
 - Are they licensed and insured? Yes.
 
 ## Pages
-- Home: https://mrhoffsdetailing.com/
-- Services: https://mrhoffsdetailing.com/services.html
-- About: https://mrhoffsdetailing.com/about.html
-- Request a quote: https://mrhoffsdetailing.com/contact.html
+- Home: https://mr-hoffs-auto-detailing.netlify.app/
+- Services: https://mr-hoffs-auto-detailing.netlify.app/services.html
+- About: https://mr-hoffs-auto-detailing.netlify.app/about.html
+- Request a quote: https://mr-hoffs-auto-detailing.netlify.app/contact.html

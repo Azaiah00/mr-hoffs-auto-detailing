@@ -17,7 +17,7 @@ assets/css/fonts.css   self-hosted @font-face (Fraunces, Inter via Fontsource, O
 assets/css/site.css    the single site stylesheet
 assets/js/site.js      menu, reveals, counters, scroll-linked sheen and water-beading effect, form validation
 assets/fonts/          woff2 files (latin subset)
-assets/img/            optimized webp photos (+ -800 versions), og.jpg, favicons
+assets/img/            optimized webp photos (+ -800 versions), share.jpg, favicons
 robots.txt, sitemap.xml, llms.txt, site.webmanifest, netlify.toml
 ```
 

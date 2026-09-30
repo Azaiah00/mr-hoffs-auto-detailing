@@ -13,4 +13,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://mrhoffsdetailing.com/sitemap.xml
+Sitemap: https://mr-hoffs-auto-detailing.netlify.app/sitemap.xml
